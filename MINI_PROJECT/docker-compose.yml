@@ -9,7 +9,7 @@ services:
       - "8080:8080"
     environment:
       - PORT=8080
-      - MONGO_URI=mongodb+srv://chatbos:chatbos123@cluster0.xpibyq2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      - MONGO_URI=
       - MONGO_DB=chatbos
       - JWT_SECRET=your-secret-key-change-in-production
     depends_on:
