@@ -1,5 +1,10 @@
 # MentalBloom: Mental Health Resource Platform
 
+# Team Members - 
+ Raghav Arora,
+ Nikhil Sharma,
+ Krishna Vohra
+
 ## Project Overview
 
 MentalBloom is a comprehensive mental health resource platform designed to provide personalized support through AI-powered conversations, emotion tracking, and journaling. The platform combines modern web technologies with advanced AI capabilities to create an accessible mental health companion.
@@ -8,7 +13,6 @@ MentalBloom is a comprehensive mental health resource platform designed to provi
 
 MentalBloom follows a microservices architecture, with each component serving a specific purpose:
 
-![Architecture Diagram](https://mermaid.live/view#pako:eNp9U8FuozAQ_RXLp6yURoSQBDhUSks3qtRIVbvaw5o9eGGaWBvsyJhus1H-vWMcSFBQkcDD85vx-D37QDOVA43pWvPdhvxIUknwKas_DkhporK_oMm9KnaqBPIg34VWsgBpUurI9vmOmAGZsybABGm4kKB_n1lLbuAf37PF82MT9_IWldkw-yGvoN9FBr2sl8WS4fsl5xX7FLZZ1kZkIfl2X4qyN-HRdm-YG8gLZGothRFK9rJXSq5VcscGp-BM-nbZKOSiZIN6uGagWC64kv7hw4DGZpsdlpeKP2ONTElggyYiPyEzSpPk7nLxJRRCCuYG8vS0Iqh-_9Ktdzc3t40_bqYxy05YX65RNMKB1hELtHp3YSdsF2s20EVdxw6rz4IFTzp3mR3w7HPdltXcTZwsbVE6xEMvchq_8W0JQ1qALrj9pwebkFKzgQJSGmOYwxuvtvWJP2LejstfShU0NrrCTK2q9aatU-1y1CURHG08U1BW0PeqkobGUViXoPGBftA48MLRZOZPxxM_jMZ-FAzpnsaTaBSMIz-cBdO5H82D-XFI_9dreqPpOPAmM8-L_Lk380KshvtB51fuKtc3-vgJeYAwAg)
 
 ### Key Components:
 
