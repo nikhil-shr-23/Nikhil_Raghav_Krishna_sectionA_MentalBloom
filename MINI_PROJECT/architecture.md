@@ -4,7 +4,7 @@
 
 MentalBloom is a comprehensive mental health support platform that combines AI-powered chat capabilities with personal journaling features. The system is built using a microservices architecture to ensure scalability, maintainability, and separation of concerns.
 
-## Architecture Diagram
+## Architecture Diagram =
 
 ```
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
