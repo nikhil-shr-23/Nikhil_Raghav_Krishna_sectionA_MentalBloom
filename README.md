@@ -1,9 +1,9 @@
 # MentalBloom: Mental Health Resource Platform
 
 # Team Members - 
- Raghav Arora,
- Nikhil Sharma,
- Krishna Vohra
+ Raghav Arora -2401010114,
+ Nikhil Sharma -2401010084,
+ Krishna Vohra -2401010066
 
 ## Project Overview
 
